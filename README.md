@@ -36,6 +36,6 @@ Docker контейнеры подходят для ситуаций, когда
 
 ![Image alt](https://github.com/AlexSterlev/Docker-Homework/raw/main/images/docker_vs_VM.png)
 
-| Attempt | #1  | #2  |
-| :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
+| #1  | #2  |
+| :-: | :-: |
+| 301 | 283 |
