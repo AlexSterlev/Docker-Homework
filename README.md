@@ -35,3 +35,7 @@ san4ez@edukation:~/LAB13/alpine-www$ sudo docker-compose up -d
 Docker контейнеры подходят для ситуаций, когда вы хотите запустить несколько приложений в одном ядре операционной системы. Но если у вас есть приложения или серверы, которые должны работать в разных версиях операционной системы, тогда требуются виртуальные машины.
 
 ![Image alt](https://github.com/AlexSterlev/Docker-Homework/raw/main/images/docker_vs_VM.png)
+
+| Attempt | #1  | #2  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
